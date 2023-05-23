@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🚚 I’m currently working at **Daimler Truck as a Logistics Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 How to reach me **jorgergonzalezo@outlook.com**
+🚚 I’m currently working at **Daimler Truck as a Logistics Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 You can reach me at **jorgergonzalezo@outlook.com**
 
 
 ## 🌐 Socials:
