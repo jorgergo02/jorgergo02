@@ -6,7 +6,7 @@
 🚚 I’m currently working at **Daimler Truck as a Logistics Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 You can reach me at **jorgergonzalezo@outlook.com**
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jorgergo/) 
 
 # 💻 Tech Stack:
