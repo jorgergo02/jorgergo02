@@ -1,12 +1,18 @@
-## Hi there 👋
-## I'm Jorge González
+## Hi, I'm Jorge González. Welcome to my profile!
 
 
 # 💫 About Me:
 🚚 I’m currently working at **Daimler Truck as a Logistics Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 You can reach me at **jorgergonzalezo@outlook.com**
 
+# 🌐 My Youtube channel picks for getting better at coding:
+- NeetCode
+- Fazt
+- HolaMundo
+- midudev
+- freeCodeCamp
 
-# 🌐 Let's Connect!
+
+# Let's Connect on LinkedIn!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jorgergo/) 
 
 # 💻 Tech Stack:
