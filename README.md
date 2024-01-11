@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🚚 I’m currently working at **Daimler Truck as a Logistics Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 You can reach me at **jorgergonzalezo@outlook.com**
+🛍️ I’m currently working at **El Puerto de Liverpool as an Intern**<br>🌱 I’m learning **ReactJS and TypeScript**<br>⚡ I enjoy **Front-End development and Database Management**<br>📫 You can reach me at **jorgergonzalezo@outlook.com**
 
 # 🌐 My Youtube channel picks for getting better at coding:
 - NeetCode
