@@ -1,4 +1,4 @@
-## Hi, I'm Jorge González. Welcome to my profile!
+# Hi, I'm Jorge González. Welcome to my profile!
 
 
 # 💫 About Me:
